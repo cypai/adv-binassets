@@ -1,0 +1,4 @@
+## tilesets
+
+outside_tileset from: https://opengameart.org/content/basic-map-32x32-by-silver-iv
+Copyright Ivan Voirol
